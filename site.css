@@ -87,3 +87,6 @@ footer a, footer a:visited {
 .felkover{
     font-weight: bold;
 }
+p{
+    text-align: justify;
+}
